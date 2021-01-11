@@ -1,0 +1,1 @@
+function logKey(e){console.log(e.code)}document.addEventListener("keydown",logKey);var subby=document.getElementById("subby"),log=document.getElementById("log");
